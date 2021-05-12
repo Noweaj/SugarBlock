@@ -7,6 +7,8 @@
 <a href="https://play.google.com/store/apps/details?id=com.noweaj.android.bloodsugartracker"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Download on Google Play" height="100"></a>
 
 ## What's new
-1.0.2
-긴급 버그 수정
-- 30일 차트 표시 오류 해결
+1.1.0
+기능 추가
+- Firebase 로그인
+버그 수정
+- 7일 차트 표시 오류 해결
